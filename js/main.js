@@ -33,6 +33,18 @@ function myFunction() {
   function my_cv_link() { 
     window.open("https://docs.google.com/document/d/1aKSk62cwiFZCprMBz-n1UTsoPLhZSeHl35eG_GaHv2s/edit"); 
 } 
+function my_ml_p1() { 
+  window.open("https://github.com/rajswilochan1999/Prediction-and-Analysis-of-Degree-of-Suicidal-Ideation-in-Online-Content-using-Machine-Learning"); 
+} 
+function my_krishikart_p1() { 
+  window.open("https://devfolio.co/submissions/krishi-kart"); 
+} 
+function my_E_banking_p1() { 
+  window.open("https://github.com/rajswilochan1999/E-banking-Project"); 
+} 
+function my_hunter_p1() { 
+  window.open("https://github.com/rajswilochan1999/Hunter--Corona-Tracker-Android-App-"); 
+} 
 
   
 // function to set a given theme/color-scheme

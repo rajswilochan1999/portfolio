@@ -88,7 +88,7 @@
 .site-main .brand-area .first-row .col-lg-4 > .single-brand{
     border: 1px solid var(--border-color);
     text-align: center;
-    padding: 1.8rem 0rem;
+    padding: 0.4rem 0.4rem;
     margin: .9rem 0;
     width: 180px;
     height: 100px;
@@ -191,7 +191,7 @@
 }
 
 .site-main .project-area .grid .our-project > .title h4{
-    font: normal 700 25px/12px var(--roboto);
+    font: normal 700 25px/30px var(--roboto);
 }
 #more {display: none;}
 
